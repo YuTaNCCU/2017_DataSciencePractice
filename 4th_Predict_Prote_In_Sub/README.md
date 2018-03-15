@@ -2,7 +2,7 @@
 
 ## Predict protein subcellular localization
 
-![PredictProtein](/images/img1.png)
+![PredictProtein](/4th_Predict_Prote_In_Sub/images/img1.png)
 
 * Chang, J.-M. M. et al. Efficient and interpretable prediction of protein functional classes by correspondence analysis and compact set relations. PLoS ONE 8, e75542 (2013).
 * Chang J-M, Su EC-Y, Lo A, Chiu H-S, Sung T-Y, & Hsu W-L (2008) PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis. Proteins: Structure, Function, and Bioinformatics 72(2):693-710.
@@ -34,7 +34,7 @@ Rscript hw4_studentID.R -fold n –out performance.csv
 * Perform n-fold cross-validation
 * % of training, % of calibration, % of testing= n-2, 1, 1
 
-![cross-validation](/images/img2.png)
+![cross-validation](/4th_Predict_Prote_In_Sub/images/img2.png)
 
 ## Model
 
